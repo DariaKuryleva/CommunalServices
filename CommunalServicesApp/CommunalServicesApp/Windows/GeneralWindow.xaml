@@ -1,0 +1,33 @@
+﻿<Window x:Class="CommunalServicesApp.Windows.GeneralWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommunalServicesApp.Windows"
+        mc:Ignorable="d"
+        Title='МУП "Юго-Запад"'
+        Height="700"
+        Width="1100"
+        WindowStartupLocation="CenterScreen"
+        MinHeight="700"
+        MinWidth="1100">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" 
+              Background="Turquoise">
+            <TextBlock Text='МУП "Юго-Запад"'
+                       FontSize="26"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+        </Grid>
+
+        <Frame Grid.Row="1"
+               Source="../Pages/AuthPage.xaml"/>
+
+    </Grid>
+</Window>
