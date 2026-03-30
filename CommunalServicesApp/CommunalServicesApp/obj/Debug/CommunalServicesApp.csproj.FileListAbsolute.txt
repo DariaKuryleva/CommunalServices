@@ -19,11 +19,9 @@ C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesA
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.csproj.AssemblyReference.cache
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Pages\AuthPage.g.cs
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Windows\GeneralWindow.g.cs
-C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Windows\LoginWindow.g.cs
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\App.g.cs
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp_MarkupCompile.cache
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp_MarkupCompile.lref
-C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Windows\LoginWindow.baml
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Pages\AuthPage.baml
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\Windows\GeneralWindow.baml
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.g.resources
@@ -32,4 +30,3 @@ C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesA
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.csproj.CoreCompileInputs.cache
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.exe
 C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.pdb
-C:\Users\Dashulka\Desktop\CommunalServices\CommunalServicesApp\CommunalServicesApp\obj\Debug\CommunalServicesApp.exe.config

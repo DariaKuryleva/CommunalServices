@@ -65,9 +65,6 @@
     <Compile Include="Windows\GeneralWindow.xaml.cs">
       <DependentUpon>GeneralWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Windows\LoginWindow.xaml.cs">
-      <DependentUpon>LoginWindow.xaml</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -104,10 +101,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Windows\GeneralWindow.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Windows\LoginWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
