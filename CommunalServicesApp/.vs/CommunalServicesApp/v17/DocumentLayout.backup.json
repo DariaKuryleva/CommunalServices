@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\communalservicesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\communalservicesapp\\windows\\generalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\windows\\generalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\dashulka\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\ado\\appdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\ado\\appdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\ado\\databasemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\ado\\databasemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +30,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Pages\\AuthPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
               "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
               "RelativeToolTip": "CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwD8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T15:26:38.58Z"
+              "WhenOpened": "2026-04-07T12:31:35.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "ToolTip": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "RelativeToolTip": "CommunalServicesApp\\Pages\\AuthPage.xaml",
+              "Title": "ReportsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\ReportsPage.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml",
+              "RelativeToolTip": "CommunalServicesApp\\Pages\\ReportsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-06T14:53:15.224Z",
+              "WhenOpened": "2026-04-07T11:31:38.917Z",
               "EditorCaption": ""
             },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
+              "RelativeToolTip": "CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:30:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDataClass.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\AppDataClass.cs",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\ADO\\AppDataClass.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\AppDataClass.cs",
+              "RelativeToolTip": "CommunalServicesApp\\ADO\\AppDataClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:29:38.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "cc44377f-af48-4e19-8622-7f8659993d8c",
+        "Display": 1,
+        "X": 301,
+        "Y": 32,
+        "Width": 1506,
+        "Height": 957,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GeneralWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\GeneralWindow.xaml",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\Windows\\GeneralWindow.xaml",
-              "ToolTip": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\GeneralWindow.xaml",
-              "RelativeToolTip": "CommunalServicesApp\\Windows\\GeneralWindow.xaml",
+              "Title": "AuthPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\AuthPage.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
+              "RelativeToolTip": "CommunalServicesApp\\Pages\\AuthPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-06T14:24:29.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\App.xaml",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\App.xaml",
-              "ToolTip": "C:\\Users\\Dashulka\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\App.xaml",
-              "RelativeToolTip": "CommunalServicesApp\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-23T05:48:56.613Z",
+              "WhenOpened": "2026-04-07T11:31:35.448Z",
               "EditorCaption": ""
             }
           ]

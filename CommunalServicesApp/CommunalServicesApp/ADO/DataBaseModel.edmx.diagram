@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="290026e9adb84b73b855735da6b8c009" Name="Diagram1">
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Clients" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Posts" Width="1.5" PointX="1.5" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Priorities" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Reports" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Reviews" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Roles" Width="1.5" PointX="1.5" PointY="25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.ServiceTypes" Width="1.5" PointX="0.75" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Statuses" Width="1.5" PointX="0.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Users" Width="1.5" PointX="1.5" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CommunalServicesBDModel.Workers" Width="1.5" PointX="0.75" PointY="15" IsExpanded="true" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reports_Clients" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reviews_Clients" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Workers_Posts" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reports_Priorities" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reports_ServiceTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reports_Statuses" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Reports_Workers" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Users_Roles" ManuallyRouted="false" />
+        <AssociationConnector Association="CommunalServicesBDModel.FK_Workers_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
