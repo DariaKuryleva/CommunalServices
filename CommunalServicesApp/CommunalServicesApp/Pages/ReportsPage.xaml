@@ -4,33 +4,57 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:CommunalServicesApp.Pages"
-      mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="900"
+      mc:Ignorable="d"
+      Language="ru-RU"
+      d:DesignHeight="450"
+      d:DesignWidth="900"
       Title="ReportsPage">
-
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="60"/>
+            <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
-        <DataGrid Grid.Row="0">
-            <DataGrid.Columns >
-                <DataGridTextColumn Header="Номер" Binding="{Binding ReportId}" Width="50"/>
-                <DataGridTextColumn Header="Тип услуги" Binding="{Binding ServiceTypeId}" Width="*"/>
+        
+        <DataGrid Name="ReportsDataGrid"
+                  IsReadOnly="True"
+                  AutoGenerateColumns="False"
+                  Grid.Row="0"
+                  AlternationCount="2"
+                  AlternatingRowBackground="WhiteSmoke">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Binding="{Binding ReportId}" MinWidth="50"/>
+                <DataGridTextColumn Header="Тип услуги" Binding="{Binding ServiceTypes.Name}" MinWidth="100"/>
                 <DataGridTextColumn Header="Название заявки" Binding="{Binding Title}" Width="*"/>
                 <DataGridTextColumn Header="Описание" Binding="{Binding Note}" Width="*"/>
-                <DataGridTextColumn Header="Номер клиента" Binding="{Binding ClientId}" Width="*"/>
-                <DataGridTextColumn Header="Дата заявки" Binding="{Binding Datetime}" Width="*"/>
-                <DataGridTextColumn Header="Статус" Binding="{Binding StatusId}" Width="50"/>
-                <DataGridTextColumn Header="Сотрудник" Binding="{Binding WorkerId}" Width="70"/>
-                <DataGridTextColumn Header="Приоритет" Binding="{Binding PriorityId}" Width="*"/>
+                <DataGridTextColumn Header="Номер клиента" Binding="{Binding Clients.Surname}" Width="*"/>
+                <DataGridTextColumn Header="Дата заявки" Binding="{Binding Datetime, StringFormat=dd MMMM yyyy}" Width="*"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Statuses.Name}" Width="50"/>
+                <DataGridTextColumn Header="Сотрудник" Binding="{Binding Workers.Surname}" Width="70"/>
+                <DataGridTextColumn Header="Приоритет" Binding="{Binding Priorities.Name}" Width="*"/>
                 <DataGridTextColumn Header="Актуальность" Binding="{Binding IsActual}" Width="*"/>
             </DataGrid.Columns>
         </DataGrid>
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Grid.Row="1">
-            <Button Content="Добавить" Width="150" Height="25" FontSize="16"/>
-            <Button Content="Редактировать" Width="150" Height="25" FontSize="16" Margin="30 0 30 0"/>
-            <Button Content="Удалить" Width="150" Height="25" FontSize="16"/>
+        
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Orientation="Horizontal"
+                    Grid.Row="1">
+            <Button Content="Добавить"
+                    Width="150"
+                    Height="25"
+                    FontSize="16"
+                    Click="AddButtonClick"/>
+            <Button Content="Редактировать"
+                    Width="150"
+                    Height="25"
+                    FontSize="16"
+                    Margin="30 0 30 0"
+                    Click="EditButtonClick"/>
+            <Button Content="Удалить"
+                    Width="150" 
+                    Height="25" 
+                    FontSize="16"
+                    Click="DeleteButtonClick"/>
         </StackPanel>
     </Grid>
 </Page>

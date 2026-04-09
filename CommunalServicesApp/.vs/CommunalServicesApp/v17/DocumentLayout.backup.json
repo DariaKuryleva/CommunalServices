@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\authpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\windows\\reporteditorwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\windows\\reporteditorwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\authpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\windows\\reporteditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\windows\\reporteditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\ado\\appdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\ado\\appdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\ado\\databasemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\ado\\databasemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|c:\\users\\vadim\\desktop\\communalservices\\communalservicesapp\\communalservicesapp\\pages\\reportspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DDCDF66F-83EB-4555-BA7E-61517515F528}|CommunalServicesApp\\CommunalServicesApp.csproj|solutionrelative:communalservicesapp\\pages\\reportspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,85 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pages\\AuthPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "RelativeToolTip": "CommunalServicesApp\\Pages\\AuthPage.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwD8AAAAcAAAAAAAAAA==",
+              "Title": "ReportEditorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\ReportEditorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\Windows\\ReportEditorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\ReportEditorWindow.xaml.cs",
+              "RelativeToolTip": "CommunalServicesApp\\Windows\\ReportEditorWindow.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwIYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T12:31:35.085Z",
+              "WhenOpened": "2026-04-09T16:22:36.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReportsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\ReportsPage.xaml",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml",
-              "RelativeToolTip": "CommunalServicesApp\\Pages\\ReportsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-07T11:31:38.917Z",
+              "Title": "ReportsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml.cs",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\ReportsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\ReportsPage.xaml.cs",
+              "RelativeToolTip": "CommunalServicesApp\\Pages\\ReportsPage.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T15:52:14.093Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataBaseModel.Context.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
-              "RelativeToolTip": "CommunalServicesApp\\ADO\\DataBaseModel.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T11:30:37.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDataClass.cs",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\AppDataClass.cs",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\ADO\\AppDataClass.cs",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\ADO\\AppDataClass.cs",
-              "RelativeToolTip": "CommunalServicesApp\\ADO\\AppDataClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T11:29:38.208Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "cc44377f-af48-4e19-8622-7f8659993d8c",
-        "Display": 1,
-        "X": 301,
-        "Y": 32,
-        "Width": 1506,
-        "Height": 957,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "RelativeDocumentMoniker": "CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Pages\\AuthPage.xaml",
-              "RelativeToolTip": "CommunalServicesApp\\Pages\\AuthPage.xaml",
+              "Title": "ReportEditorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\ReportEditorWindow.xaml",
+              "RelativeDocumentMoniker": "CommunalServicesApp\\Windows\\ReportEditorWindow.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\CommunalServices\\CommunalServicesApp\\CommunalServicesApp\\Windows\\ReportEditorWindow.xaml",
+              "RelativeToolTip": "CommunalServicesApp\\Windows\\ReportEditorWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-07T11:31:35.448Z",
+              "WhenOpened": "2026-04-09T16:22:35.028Z",
               "EditorCaption": ""
             }
           ]

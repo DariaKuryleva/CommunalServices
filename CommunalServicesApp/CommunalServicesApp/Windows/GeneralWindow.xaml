@@ -27,6 +27,7 @@
         </Grid>
 
         <Frame Grid.Row="1"
+               NavigationUIVisibility="Hidden"
                Source="../Pages/AuthPage.xaml"/>
 
     </Grid>
